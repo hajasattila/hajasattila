@@ -15,7 +15,4 @@ I have been working in software development for more than two years, and I am cu
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hajasattila&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hajasattila&limit=2&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
